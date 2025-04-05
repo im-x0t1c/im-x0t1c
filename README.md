@@ -16,6 +16,12 @@
   <img src="7dcaeb4bb2fdbda3f16f00f24e0a09ca.gif" width="300"/>
 </p>
 
+<h2 align="center">⌞ 𝙏𝙃𝘼𝙏'𝙎 𝙒𝙃𝘼𝙏 𝙔𝙊𝙐 𝘿𝙊 𝘽𝙀𝙎𝙏 ⌝</h2>
+
+<p align="center">
+  <img src="c9e68caf29af198cc9329adfa65f5981.gif" width="300" />
+</p>
+
 <h2 align="center">═══════════════════════════════════════════════════</h2>
 
 <p align="center">
