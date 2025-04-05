@@ -1,6 +1,23 @@
 <html>
-  <body style="background-color: black; color: white; text-align: center;">
-    <hr style="border: none; border-top: 2px dashed white; margin: 0 auto; width: 80%;"/>
+  <head>
+    <style>
+      body {
+        background-color: black;
+        color: white;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
+      hr {
+        border: none;
+        border-top: 2px dashed white;
+        margin: 0 auto;
+        width: 80%;
+      }
+    </style>
+  </head>
+  <body>
+    <hr />
     <h2>A HOME LIKE YOURS IS UPSIDE DOWN</h2>
     <img src="images(1).jpg" width="450" />
     <h2>A HOPE LIKE YOURS WON'T HELP ME NOW</h2>
@@ -10,6 +27,6 @@
       <span style="float: left;">DISCORD _x0t1c</span>
       <span style="float: right;">Made for Ponytown</span>
     </p>
-    <hr style="border: none; border-top: 2px dashed white; margin: 0 auto; width: 80%;" />
+    <hr />
   </body>
 </html>
