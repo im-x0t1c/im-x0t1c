@@ -1,7 +1,7 @@
 <h2 align="center">═══════════════════════════════════════════════════</h2>
 
 <p align="center">
-  <img src="images(1).jpg" width="450" />
+  <img src="images(1).jpg" width="475" />
 </p>
 
 <h2 align="center">⌞ 𝘼 𝙃𝙊𝙈𝙀 𝙇𝙄𝙆𝙀 𝙔𝙊𝙐𝙍𝙎 𝙄𝙎 𝙐𝙋𝙎𝙄𝘿𝙀 𝘿𝙊𝙒𝙉 ⌝</h2>
