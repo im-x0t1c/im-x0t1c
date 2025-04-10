@@ -1,6 +1,6 @@
 <h2 align="center">═══════════════════════════════════════════════════</h2>
 
-<h2 align="center">i lava u angel! best gurfren ever!!!!!!!!!! ❤</h2>
+<h2 align="center">angel ❤</h2>
 
 <h2 align="center">═══════════════════════════════════════════════════</h2>
 
