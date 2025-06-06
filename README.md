@@ -1,9 +1,3 @@
-<h2 align="center">═══════════════════════════════════════════════════</h2>
-
-<h2 align="center">angel ❤</h2>
-
-<h2 align="center">═══════════════════════════════════════════════════</h2>
-
 <p align="center">
   <img src="images(1).jpg" width="350" />
 </p>
