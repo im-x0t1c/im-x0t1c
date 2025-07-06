@@ -27,7 +27,7 @@
 <h2 align="center">═══════════════════════════════════════════════════</h2>
 
 <p align="center">
-  <span align="left">ᴅɪꜱᴄᴏʀᴅ _x0t1c</span> 
+  <span align="left">ᴅɪꜱᴄᴏʀᴅ basically.sel</span> 
   <span align="right">Made for ᴘᴏɴʏᴛᴏᴡɴ</span>
 </p>
 
