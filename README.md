@@ -1,3 +1,5 @@
+<h2 align="center">pfp is a wendy's nugget my girlfriend found and i said that's us LMAO</h2>
+
 <p align="center" style="margin:0; padding:0;">
   <img src="b1.png" width="55%" style="margin:0; padding:0; display:block;">
 </p>
