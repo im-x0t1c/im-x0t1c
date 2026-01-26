@@ -4,7 +4,7 @@
   <img src="b1.png" width="55%" style="margin:0; padding:0; display:block;">
 </p>
 <p align="center" style="margin:0; padding:0;">
-  <img src="mainbodyv2.png" width="100%" style="margin:0; padding:0; display:block;">
+  <img src="r.png" width="100%" style="margin:0; padding:0; display:block;">
 </p>
 <p align="center" style="margin:0; padding:0;">
   <img src="b2.png" width="55%" style="margin:0; padding:0; display:block;">
