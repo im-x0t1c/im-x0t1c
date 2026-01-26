@@ -1,5 +1,3 @@
-<h2 align="center">can yall gen imagine a girl leaving u bc u cant play boyfriend since ur mom died the same week</h2>
-
 <p align="center" style="margin:0; padding:0;">
   <img src="b1.png" width="55%" style="margin:0; padding:0; display:block;">
 </p>
