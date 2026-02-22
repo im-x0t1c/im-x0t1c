@@ -7,7 +7,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=im-x0tic&color=550000)
+![](https://komarev.com/ghpvc/?username=im-x0tic&color=310909)
 
 
 <p align="center" style="margin:0; padding:0;">
