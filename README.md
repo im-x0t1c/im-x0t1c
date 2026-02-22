@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=im-x0tic&color=400909" />
+</div>
+
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img 
@@ -5,11 +10,6 @@
       width="250" 
     />
   </a>
-</div>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=im-x0tic&color=400909" />
 </div>
 
 <p align="center" style="margin:0; padding:0;">
