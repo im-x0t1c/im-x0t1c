@@ -14,11 +14,6 @@
 <p align="center" style="margin:0; padding:0;">
   <img src="r.png" width="100%" style="margin:0; padding:0; display:block;">
 </p>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=im-x0tic&color=400909" />
-</div>
 <p align="center" style="margin:0; padding:0;">
   <img src="b2.png" width="55%" style="margin:0; padding:0; display:block;">
 </p>
@@ -29,3 +24,7 @@
     <img src="redirectv3.png" width="15%" style="margin:0; padding:0; display:block;">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=im-x0tic&color=400909" />
+</div>
