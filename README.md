@@ -1,11 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=im-x0tic&color=400909" />
-</div>
-
-<div style="height: 30px;"></div>
-
-
-<div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zltmcjt5c3kkrjdfzr7ryhbn6i&cover_image=true&theme=default&show_offline=false&background_color=420002&interchange=false&profanity=false&bar_color=a80004&bar_color_cover=false" 
@@ -30,3 +23,10 @@
     <img src="redirectv3.png" width="15%" style="margin:0; padding:0; display:block;">
   </a>
 </p>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=im-x0tic&color=400909" />
+</div>
+
+<div style="height: 30px;"></div>
