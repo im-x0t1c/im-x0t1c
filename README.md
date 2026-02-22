@@ -1,4 +1,4 @@
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zltmcjt5c3kkrjdfzr7ryhbn6i)](https://open.spotify.com/user/31zltmcjt5c3kkrjdfzr7ryhbn6i)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zltmcjt5c3kkrjdfzr7ryhbn6i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=640002&interchange=false&profanity=false&mode=dark&bar_color=c40005&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center" style="margin:0; padding:0;">
   <img src="b1.png" width="55%" style="margin:0; padding:0; display:block;">
