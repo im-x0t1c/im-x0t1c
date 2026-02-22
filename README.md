@@ -7,6 +7,8 @@
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=im-x0tic)
+
 <p align="center" style="margin:0; padding:0;">
   <img src="b1.png" width="55%" style="margin:0; padding:0; display:block;">
 </p>
