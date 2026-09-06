@@ -19,10 +19,19 @@
 
 <!-- Clickable image at the very bottom -->
 <p align="center" style="margin:0; padding:0;">
-  <a href="https://drive.google.com/file/d/1CdTsGEF7imc6UaQHS0SAe3WxX-TpCM7u/view?usp=sharing" target="_blank">
-    <img src="redirectv3.png" width="15%" style="margin:0; padding:0; display:block;">
-  </a>
+  <img src="redirectv3.png" width="15%" style="margin:0; padding:0; display:block;">
 </p>
+
+
+<div align="center">
+  <video
+    src="https://github.com/user-attachments/assets/693a0dfc-c3f3-4cf2-8f02-3195ffbfb69f"
+    controls
+    width="300"
+    height="30">
+  </video>
+</div>
+
 
 
 <div align="center">
